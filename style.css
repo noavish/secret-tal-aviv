@@ -156,7 +156,7 @@ section {
     }
 
     nav li a {
-        font-size: 0.9em;
+        font-size: 0.7em;
     }
 }
 
@@ -168,3 +168,9 @@ section {
 
 
 
+
+
+
+/* section {
+    overflow: auto;
+} */
